@@ -14,4 +14,8 @@ We are trying to visualize an extensive database of actors who worked with each 
   - Then upload excel file in Kumu website
 ## My Result -
   https://kumu.io/hkcs1206/bollywood2000#ga6
-  
+  ![image](https://user-images.githubusercontent.com/96352622/208315670-fb37166c-7cc3-4806-a855-6a36e56ba7af.png)
+  - Each node is actors
+  ![image](https://user-images.githubusercontent.com/96352622/208315743-ead2056b-d88f-4f21-b390-d66e3371b315.png)
+ - In above images, we can see after 2000 , govinda worked twice with Anupam Kher and thrice with Kader Khan. 
+
